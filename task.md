@@ -1,0 +1,28 @@
+# AI-Generated vs Real Image Detection
+
+- [ ] **Project Initialization**
+    - [x] Create directory structure (`Mtech_Project/`, `dataset/`, `models/`) <!-- id: 0 -->
+    - [x] Create `implementation_plan.md` <!-- id: 1 -->
+    - [x] Create `stories.md` for agile tracking <!-- id: 17 -->
+- [ ] **EfficientNet Model (TensorFlow)**
+    - [x] Create `models/efficientnet/` directory <!-- id: 7 -->
+    - [x] Rewrite `models/efficientnet/EfficientNet.ipynb` with TensorFlow <!-- id: 8 -->
+    - [x] Implement Data Loading & Preprocessing (Keras) <!-- id: 9 -->
+    - [x] Implement EfficientNet-B0 loading and modification <!-- id: 10 -->
+    - [x] Implement training loop and evaluation <!-- id: 11 -->
+- [ ] **ResNet Model (Comparison) (TensorFlow)**
+    - [x] Create `models/resnet/` directory <!-- id: 12 -->
+    - [x] Rewrite `models/resnet/ResNet.ipynb` with TensorFlow <!-- id: 13 -->
+    - [x] Implement ResNet50 loading and modification <!-- id: 14 -->
+    - [x] Implement training loop and evaluation <!-- id: 15 -->
+- [ ] **GAN Discriminator Experiments**
+    - [x] Create `models/ganmodel/` directory <!-- id: 20 -->
+    - [x] Create `models/ganmodel/GAN_resnet.ipynb` (ResNet backbone) <!-- id: 21 -->
+    - [x] Create `models/ganmodel/GAN_xception.ipynb` (Xception backbone) <!-- id: 22 -->
+    - [x] Implement System Performance Monitoring (CPU/RAM/Disk) <!-- id: 23 -->
+    - [x] Train and Evaluate both models <!-- id: 24 -->
+- [ ] **Documentation**
+    - [x] Copy artifacts to `Mtech_Project/` <!-- id: 18 -->
+    - [x] Create UML diagrams (`uml_diagrams.md`) <!-- id: 19 -->
+- [ ] **Final Review & Walkthrough**
+    - [x] Create `walkthrough.md` <!-- id: 16 -->

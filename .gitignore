@@ -1,0 +1,13 @@
+# Datasets
+dataset/
+
+# Models
+*.keras
+*.h5
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System
+.DS_Store
