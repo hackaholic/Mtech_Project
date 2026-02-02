@@ -45,6 +45,11 @@ The project is designed to run in **Jupyter Notebooks** (Linux/Mac).
 *   `psutil` (for CPU/RAM monitoring)
 *   `nvidia-smi` (for GPU monitoring on Linux)
 
+### Dataset
+This project uses the **AIGeneratedImages_Midjourney** dataset.
+*   **Source**: [ideepankarsharma2003/AIGeneratedImages_Midjourney](https://huggingface.co/datasets/ideepankarsharma2003/AIGeneratedImages_Midjourney)
+*   **Description**: A collection of AI-generated images from Midjourney, useful for training DeepFake detection models.
+
 ### Installation
 Install the required libraries:
 ```bash
