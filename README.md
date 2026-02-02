@@ -27,6 +27,7 @@ Mtech_Project/
 │   ├── resnet/
 │   │   └── ResNet.ipynb         # ResNet-50 Comparison
 │   └── ganmodel/
+│       ├── GAN_Classifier.ipynb # Basic DCGAN Discriminator
 │       ├── GAN_resnet.ipynb     # GAN Discriminator (ResNet50)
 │       └── GAN_xception.ipynb   # GAN Discriminator (Xception)
 ├── implementation_plan.md       # Technical Development Plan
